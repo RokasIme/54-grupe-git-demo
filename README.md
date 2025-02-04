@@ -4,4 +4,4 @@ antra eilute
 
 trečia eilutė
 
-** Bold užrašas **
+**Bold užrašas**
